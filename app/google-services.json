@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610819977156",
+    "firebase_url": "https://carapp-c6c82-default-rtdb.firebaseio.com",
+    "project_id": "carapp-c6c82",
+    "storage_bucket": "carapp-c6c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610819977156:android:3ae5caf818ea64d3d83e91",
+        "android_client_info": {
+          "package_name": "com.example.carapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKN2dS0rc_MdS6mmvSs1Umad5NyL-HLmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

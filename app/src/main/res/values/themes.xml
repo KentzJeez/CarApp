@@ -1,0 +1,9 @@
+<!-- Light theme -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CarApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CarApp" parent="Base.Theme.CarApp" />
+</resources>
